@@ -1,0 +1,47 @@
+Pre-trained vs not pre-trained
+3d conv vs 2d
+classification vs segmentation
+
+
+Semantic segmentation every pixel is identified this is in classification
+
+Recongition Localization: put a box around an area
+
+Use a classification algorithim
+Segmentation more complicated but takes the spatial awareness
+MULTI LABEL CLASSIFICATION
+
+
+What is the aim of the project currently
+	Test multiple models and compare what works the best for volumetric segmentation
+	
+What we've accomplished in the past week
+	Data augmentation
+	3d Conv Net Work
+	2d Conv Net work
+	Classifiers
+
+What blockers we need to ask you about
+	Working with big data
+
+What we aim to achieve
+	WE aim to do a compartivie analysis of 3 models for volumetric segmentation
+	Multi Channel 2d convoultion
+	3d Convoultion
+	Slice Classification
+
+
+CREATE HISTOGRAMS OF THE ACTIVIATION 
+HOW TO BE THE TOP KAGGLE SCORER
+FASTAI
+
+
+There are other images besides accuracy that could work
+Do regularization
+Have the same evaluation 
+Not nearly a bitch this time around
+Create a benchmark
+What are we expecting for a dice loss
+We don't know whats good or bad we need to find a better way of debugging 
+
+
